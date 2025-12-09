@@ -10,8 +10,13 @@ Both programs communicate through a TCP connection and exchange messages in real
 
 **Features**
 Real-time messaging between two laptops
+
 Simple AWT-based GUI (TextField, TextArea, Button)
+
 Uses ServerSocket and Socket for communication
+
 Multi-threaded message receiving
+
 Clean and lightweight code
+
 Works on any device that supports Java
